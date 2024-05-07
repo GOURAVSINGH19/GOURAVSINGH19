@@ -1,21 +1,14 @@
-<h1 align="center">Hi 👋, I'm chetan chauhan</h1>
+<h1 align="center">Hi 👋, I'm Gourav Singh</h1>
 
 - 🌱 I’m currently learning **web development**
 - 💬 Ask me about **react, node, etc;**
-- 📫 How to reach me **chauhanchetan12789@gmail.com**
-- ⚡ In my free time, I solve problems on LeetCode and Codechef.
+- 📫 How to reach me **gouravsingh4495@gmail.com**
+- ⚡ In my free time, I solve problems on LeetCode and coding ninja.
   
 <h3 align="left">Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/chetan-chauhan-860106258/">
+  <a href="(https://www.linkedin.com/in/gourav-singh-814293258//">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/chetan3327_85/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-  <a href="https://www.codechef.com/users/chetan3327">
-    <img src="https://img.shields.io/badge/CodeChef-red?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
-  </a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
