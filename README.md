@@ -1,27 +1,67 @@
-<h1 align="center">Hi 👋, I'm Gourav Singh</h1>
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Gourav Singh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Gourav singh Welcome to my Profile! animated typed out">
 
-- 🌱 I’m currently learning **web development**
-- 💬 Ask me about **react, node, etc;**
-- 📫 How to reach me **gouravsingh4495@gmail.com**
-- ⚡ In my free time, I solve problems on LeetCode and coding ninja.
-  
-<h3 align="left">Connect with me:</h3>
-  <a href="(https://www.linkedin.com/in/gourav-singh-814293258//">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+I am Gourav Singh, a passionate Full Stack Developer and open-source contributor. Currently, I am learning about THREE.js . I have participated in numerous hackathons, meetups, and events, gaining valuable knowledge.
+
+I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.
+
+### Connect with me🌐
+<div align="left">
+  <a href="(https://www.instagram.com/gouravsingh2942/)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js" />
-</a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,expressjs,mongo,mysql,react" />
-</a>
-</p>
+  <a href="gouravsingh4495@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/nishitbaria/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetan3327&show_icons=true&locale=en" alt="chetan3327" /></p>
+## ⚡ Technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan3327&show_icons=true&locale=en" alt="chetan3327" /></p>
+### Language :
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+
+### FRAMEWORKS, PLATFORMS & LIBRARIES :
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+
+### Databases :
+
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
+
+
+
+
+### Cloud Tools DevOps:
+
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+
+
+
+
+<p align="center">
+	
+ 
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishitbaria&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+	
+	
+</details>
+</p>
+
+	
+	
+	
