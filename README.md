@@ -1,4 +1,4 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Gourav Singh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Gourav singh Welcome to my Profile! animated typed out">
+### I'm+Gourav Singh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Gourav singh Welcome to my Profile! animated typed out">
 
 I am Gourav Singh, a passionate Full Stack Developer and open-source contributor. Currently, I am learning about THREE.js . I have participated in numerous hackathons, meetups, and events, gaining valuable knowledge.
 
