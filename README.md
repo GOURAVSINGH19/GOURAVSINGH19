@@ -12,10 +12,7 @@
 
 - 🔭 I’m currently working on **Three.js and Full Stack**
 
-- 🌱 I’m currently deciphering **on what to learn or what not to** 
-
 - 👯 I’m looking to collaborate on **Full Stack**
 
-- ⚡ Fun fact - **An avid youtube and reddit wanderer**
 <br><br>
 
