@@ -1,7 +1,7 @@
 
 # Hello World!, I'm Gourav, a Indian Web Developer 👋🏼:
 
-🛜 currently working on Three.js and R3F<br>👨🏼‍🎓
+👨🏼‍🎓 currently working on Three.js and R3F
 
 # 💻 Tech Stack:
 <div align="center">
